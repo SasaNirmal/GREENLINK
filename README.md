@@ -17,14 +17,14 @@
 ## 🛠️ Technologies Used
 
 ### Frontend
-- **Framework**: Flutter
-- **Programming Language**: Dart
+- **Framework**: React Native
+- **Programming Language**: Javascript
 
 ### Backend
 - **Framework**: Node.js with Express
-- **Database**: MongoDB (NoSQL)
+- **Database**: MySql
 - **Authentication**: JSON Web Tokens (JWT) for secure access control
-- **File Upload**: Multer for image uploads
+- **File Upload**: Cloudinary
 
 ### Tools & Services
 - **Version Control**: Git & GitHub
